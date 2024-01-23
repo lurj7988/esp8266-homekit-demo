@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "app_wifi.h": "c",
+        "hap.h": "c",
+        "esp_log.h": "c",
+        "app_hap_setup_payload.h": "c",
+        "hap_fw_upgrade.h": "c",
+        "iot_button.h": "c",
+        "cstdlib": "c",
+        "algorithm": "c",
+        "esp_system.h": "c",
+        "eagle_soc.h": "c"
+    },
+    "cmake.configureEnvironment": {
+        "IDF_PATH": "~/esp/ESP8266_RTOS_SDK"
+    }
+}

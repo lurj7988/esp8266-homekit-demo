@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/**",
+                "~/esp/ESP8266_RTOS_SDK/components/**",
+                "~/workspace/esp-homekit-sdk/components/**",
+                "~/workspace/esp-homekit-sdk/examples/common/**"
+            ],
+            "defines": [],
+            "cStandard": "c11",
+            "cppStandard": "gnu++11",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "compilerPath": "/usr/bin/gcc"
+        }
+    ],
+    "version": 4
+}
